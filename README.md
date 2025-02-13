@@ -17,3 +17,8 @@ git branch -M main
 git push -u origin main
 
                          SUBLIST3R TOOL
+git clone https://github.com/aboul3la/Sublist3r.git
+ls
+cd sublist3r
+./sublist3r.py
+./sublist3r.py -d hsploit.co
